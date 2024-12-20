@@ -16,7 +16,7 @@ const post = [
     content: [
       { type: 'paragraph', content: 'Fala galeraa 👋 ' },
       { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀',},
-      { type: 'link', content: '<a href="#">jane.design/doctorcare</a>' 
+      { type: 'link', content: 'jane.design/doctorcare' 
       },        
     ],
     publishedAt: new Date('2024-12-10 20:00:00')
@@ -24,14 +24,14 @@ const post = [
   {
     id: 2,
     author: {
-      avatarUrl: 'https://github.com/DAVI-RESENDE.png',
+      avatarUrl: 'https://github.com/DAVI-REZENDE.png',
       name: 'Davi',
       role: 'Web Developer'
     },
     content: [
       { type: 'paragraph', content: 'Fala galeraa 👋 ' },
       { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀',},
-      { type: 'link', content: '<a href="#">jane.design/doctorcare</a>' 
+      { type: 'link', content: 'jane.design/doctorcare' 
       },        
     ],
     publishedAt: new Date('2024-12-20 22:00:00')
